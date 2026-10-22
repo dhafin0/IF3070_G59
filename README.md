@@ -5,7 +5,7 @@ Tugas Besar 1 IF3070 Dasar Inteligensi Artifisial
 Repository ini berisi implementasi algoritma local search untuk menentukan solusi optimum
 
 Algoritma yang diimplementasikan:
-- Hill Climbing
+- Hill Climbing (Steepest Ascent)
 - Simulated Annealing
 - Genetic Algorithn
 
