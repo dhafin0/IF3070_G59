@@ -1,1 +1,15 @@
-
+{
+  "kapal": {
+    "Dimensi": {"w": 4, "l": 4},
+    "Luas": 16,
+    "MaxCapacity": 7
+  },
+  "kendaraan": [
+    {"id": "motor_1",      "Jenis": "motor",       "Dimensi": {"w": 1, "l": 2}, "Weight": 1, "ShippingFee": 8,  "Eta": 2},
+    {"id": "motor_2",      "Jenis": "motor",       "Dimensi": {"w": 1, "l": 2}, "Weight": 1, "ShippingFee": 6,  "Eta": 4},
+    {"id": "mobilkecil_1", "Jenis": "mobil kecil", "Dimensi": {"w": 2, "l": 2}, "Weight": 2, "ShippingFee": 15, "Eta": 3},
+    {"id": "mobilkecil_2", "Jenis": "mobil kecil", "Dimensi": {"w": 2, "l": 2}, "Weight": 2, "ShippingFee": 18, "Eta": 1},
+    {"id": "mobilbesar_1", "Jenis": "mobil besar", "Dimensi": {"w": 2, "l": 3}, "Weight": 3, "ShippingFee": 30, "Eta": 2},
+    {"id": "mobilbesar_2", "Jenis": "mobil besar", "Dimensi": {"w": 2, "l": 3}, "Weight": 3, "ShippingFee": 25, "Eta": 5}
+  ]
+}
