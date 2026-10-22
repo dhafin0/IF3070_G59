@@ -6,7 +6,7 @@ Repository ini berisi implementasi algoritma local search untuk menentukan solus
 
 Algoritma yang diimplementasikan:
 - Hill Climbing
-- Simulated Anealing
+- Simulated Annealing
 - Genetic Algorithn
 
 ## Struktur Repository
