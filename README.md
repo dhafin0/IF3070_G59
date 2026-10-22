@@ -11,7 +11,7 @@ Algoritma yang diimplementasikan:
 
 ## Struktur Repository
 ```
-IF3070_GXX_NamaKelompok/
+IF3070_G59/
 ├── data/
 │   └── data_uji.json            data kapal dan kendaraan
 ├── src/
